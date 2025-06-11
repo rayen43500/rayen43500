@@ -1,9 +1,7 @@
 <h1 align="center">👋 Salut, moi c'est Rayen</h1>
 <h3 align="center">💻 Ingénieur Full-Stack | 🔐 Spécialiste Cybersécurité & IA | ⚙️ Passionné de Cloud & IoT</h3>
 
-<p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.skillstork.org%2Fblog%2Ftop-10-reasons-we-use-technology-in-education%2F&psig=AOvVaw2Q0WFP8dPnjXzaAdIx3peo&ust=1749743397297000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCWjqDc6Y0DFQAAAAAdAAAAABAE" />
-</p>
+
 
 ---
 
