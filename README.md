@@ -1,7 +1,7 @@
 <h1 align="center">👋 Salut, moi c’est Rayen</h1>
 <h3 align="center">
 💻 Ingénieur Full-Stack (Génie Logiciel) <br/>
-🔐 Cybersécurité • 🤖 IA & Automatisation • ☁️ Cloud & IoT
+🔐developpement • 🤖 IA & Automatisation • ☁️ Cloud & IoT
 </h3>
 
 <p align="center">
@@ -14,7 +14,6 @@ je combine ingénierie logicielle, IA et bonnes pratiques pour construire des sy
 ## 👨‍💻 À propos de moi
 
 - 🎓 Étudiant en **Génie Logiciel & Systèmes d’Information**
-- 🔐 Intérêt fort pour la **cybersécurité**, la sécurité applicative et les bonnes pratiques OWASP
 - 🤖 Passionné par l’**IA générative**, les chatbots et l’automatisation intelligente
 - 🌐 Expérience sur des projets **web, mobile, cloud et IoT**
 - 🚀 J’aime transformer des idées complexes en solutions simples, utiles et performantes
@@ -59,16 +58,7 @@ TypeScript • JavaScript • Python • Dart • Java • PHP • SQL • C++
 
 > 🔒 Certains projets en **cybersécurité et IoT** sont privés ou en cours d’évaluation académique.
 
----
-
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayen43500&show_icons=true&theme=react" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rayen43500&theme=react" height="160"/>
-</p>
-
----
+----
 
 ## 📫 Me contacter
 
