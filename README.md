@@ -1,64 +1,88 @@
-<h1 align="center">👋 Salut, moi c'est Rayen</h1>
-<h3 align="center">💻 Ingénieur Full-Stack | 🔐 Spécialiste Cybersécurité & IA | ⚙️ Passionné de Cloud & IoT</h3>
-
-
-
----
-
-### 👨‍💻 À propos de moi
-
-- 🎓 Étudiant en Génie Logiciel & Systèmes d'Information  
-- 🔐 Spécialisation en cybersécurité & projets IoT intelligents  
-- 🤖 Fan d’IA générative et d'automatisation
-- 🚀 Je développe des solutions modernes, intelligentes et sécurisées (avec une touche personnelle !)
-
----
-
-### 🧠 Stack principale
-
-**Backend** : Node.js • NestJS • Express • Spring Boot • Django  
-**Frontend** : Angular • React • Next.js • Flutter  
-**Database** : PostgreSQL • MongoDB • MySQL • SQLite  
-**DevOps & Tools** : Docker • Git • GitHub Actions • AWS  
-**IA & Innovation** : OpenAI API • Chatbot IA • Automatisation intelligente  
-**Langages** : TypeScript • JavaScript • Python • Dart • Java • PHP • SQL • C++
-
----
-
-### 🗂️ Projets publics sélectionnés
-
-| Nom du projet | Tech | Description |
-|---------------|------|-------------|
-| [📦 `pass2green`](https://github.com/rayen43500/pass2green) | nest js | Plateforme éco-responsable, code propre et structuré |
-| [🧠 `education_chat`](https://github.com/rayen43500/education_chat) | React Node Js Express Open IA API | Chatbot éducatif intégrant de l’IA |
-| [🛍️ `para_app`](https://github.com/rayen43500/para_app) | Flutter Node Js Express | Application mobile de parapharmacie |
-| [💬 `any_dis`](https://github.com/rayen43500/any_dis) | JS | Système de discussion intégré |
-| [📚 `educt`](https://github.com/rayen43500/educt) | JS | Outil éducatif interactif |
-| [🎫 `projet_ticket`](https://github.com/rayen43500/projet_ticket) | Spring Boot Angular | Gestionnaire de tickets (Admin & utilisateur) |
-| [🧑‍⚕️ `Edercare_proj`](https://github.com/rayen43500/Edercare_proj) | Python React Js | Application santé & assistance |
-| [🌐 `webjs`](https://github.com/rayen43500/webjs) | PHP | Site Web dynamique utilisant PDO & JavaScript |
-| [⚙️ `sp_logiciel`](https://github.com/rayen43500/sp_logiciel) | Multi | Logiciel de gestion type ERP/CRM |
-
-> 🔒 D’autres projets (cybersécurité, IoT, etc.) sont en cours ou privés car en phase d'évaluation académique.
-
----
-
-### 📊 Statistiques GitHub
+<h1 align="center">👋 Salut, moi c’est Rayen</h1>
+<h3 align="center">
+💻 Ingénieur Full-Stack (Génie Logiciel) <br/>
+🔐 Cybersécurité • 🤖 IA & Automatisation • ☁️ Cloud & IoT
+</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayen43500&show_icons=true&theme=react" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rayen43500&theme=react" height="160" />
+Passionné par la création de solutions <strong>modernes, intelligentes et sécurisées</strong>, 
+je combine ingénierie logicielle, IA et bonnes pratiques pour construire des systèmes fiables et évolutifs.
 </p>
 
 ---
 
-### 📫 Me contacter
+## 👨‍💻 À propos de moi
+
+- 🎓 Étudiant en **Génie Logiciel & Systèmes d’Information**
+- 🔐 Intérêt fort pour la **cybersécurité**, la sécurité applicative et les bonnes pratiques OWASP
+- 🤖 Passionné par l’**IA générative**, les chatbots et l’automatisation intelligente
+- 🌐 Expérience sur des projets **web, mobile, cloud et IoT**
+- 🚀 J’aime transformer des idées complexes en solutions simples, utiles et performantes
+
+---
+
+## 🧠 Stack technique principale
+
+### 🔧 Backend
+Node.js • NestJS • Express • Spring Boot • Django  
+
+### 🎨 Frontend & Mobile
+Angular • React • Next.js • Flutter  
+
+### 🗄️ Bases de données
+PostgreSQL • MongoDB • MySQL • SQLite  
+
+### ⚙️ DevOps & Outils
+Docker • Git • GitHub Actions • AWS  
+
+### 🤖 IA & Innovation
+OpenAI API • Chatbots IA • Automatisation intelligente  
+
+### 💬 Langages
+TypeScript • JavaScript • Python • Dart • Java • PHP • SQL • C++
+
+---
+
+## 🗂️ Projets publics sélectionnés
+
+| Projet | Technologies | Description |
+|------|-------------|-------------|
+| 📦 **pass2green** | NestJS | Plateforme éco-responsable avec architecture propre |
+| 🧠 **education_chat** | React • Node • Express • OpenAI API | Chatbot éducatif intelligent |
+| 🛍️ **para_app** | Flutter • Node • Express | Application mobile de parapharmacie |
+| 💬 **any_dis** | JavaScript | Système de discussion en temps réel |
+| 📚 **educt** | JavaScript | Plateforme éducative interactive |
+| 🎫 **projet_ticket** | Spring Boot • Angular | Gestion de tickets (admin & utilisateurs) |
+| 🧑‍⚕️ **Edercare_proj** | Python • React | Application santé & assistance |
+| 🌐 **webjs** | PHP • PDO • JS | Site web dynamique |
+| ⚙️ **sp_logiciel** | Multi-stack | Logiciel de gestion type ERP/CRM |
+
+> 🔒 Certains projets en **cybersécurité et IoT** sont privés ou en cours d’évaluation académique.
+
+---
+
+## 📊 Statistiques GitHub
 
 <p align="center">
-  <a href="mailto:rayen.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ton-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=rayen43500&show_icons=true&theme=react" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rayen43500&theme=react" height="160"/>
 </p>
 
 ---
 
-<p align="center"><em>✨ "Créer, sécuriser et innover avec passion et précision." ✨</em></p>
+## 📫 Me contacter
+
+<p align="center">
+  <a href="mailto:rayen.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ton-linkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+<em>✨ « Créer, sécuriser et innover avec passion et rigueur. » ✨</em>
+</p>
