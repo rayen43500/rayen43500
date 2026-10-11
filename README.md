@@ -1,78 +1,110 @@
-<h1 align="center">👋 Salut, moi c’est Rayen</h1>
-<h3 align="center">
-💻 Ingénieur Full-Stack (Génie Logiciel) <br/>
-🔐developpement • 🤖 IA & Automatisation • ☁️ Cloud & IoT
-</h3>
+# 👋 Hi, I'm Rayen Houaidi
 
-<p align="center">
-Passionné par la création de solutions <strong>modernes, intelligentes et sécurisées</strong>, 
-je combine ingénierie logicielle, IA et bonnes pratiques pour construire des systèmes fiables et évolutifs.
-</p>
+### Software Engineering Student | Full-Stack Development | AI Integration | DevOps
 
----
+I am a Software Engineering student at **TEK-UP University**, passionate about designing, building, and deploying modern software applications.
 
-## 👨‍💻 À propos de moi
+My work focuses on **full-stack development, backend engineering, web and mobile applications, AI-powered solutions, and deployment automation**. I enjoy transforming ideas into practical applications with an emphasis on maintainability, security, and user experience.
 
-- 🎓 Étudiant en **Génie Logiciel & Systèmes d’Information**
-- 🤖 Passionné par l’**IA générative**, les chatbots et l’automatisation intelligente
-- 🌐 Expérience sur des projets **web, mobile, cloud et IoT**
-- 🚀 J’aime transformer des idées complexes en solutions simples, utiles et performantes
+🎯 **Currently seeking a final-year engineering internship (PFE)** in software engineering, full-stack development, or AI-powered applications.
 
 ---
 
-## 🧠 Stack technique principale
+## 🚀 About Me
 
-### 🔧 Backend
-Node.js • NestJS • Express • Spring Boot • Django  
-
-### 🎨 Frontend & Mobile
-Angular • React • Next.js • Flutter  
-
-### 🗄️ Bases de données
-PostgreSQL • MongoDB • MySQL • SQLite  
-
-### ⚙️ DevOps & Outils
-Docker • Git • GitHub Actions • AWS  
-
-### 🤖 IA & Innovation
-OpenAI API • Chatbots IA • Automatisation intelligente  
-
-### 💬 Langages
-TypeScript • JavaScript • Python • Dart • Java • PHP • SQL • C++
+- 🎓 Software Engineering student at TEK-UP University, Tunisia.
+- 💻 Experience in full-stack web and mobile application development.
+- ⚙️ Backend development with Node.js, Express.js, Python, and FastAPI.
+- 🗄️ Database experience with MongoDB and SQL technologies.
+- 🤖 Interested in generative AI, computer vision, and intelligent automation.
+- 🐳 Exploring containerization, CI/CD, cloud deployment, and application security.
+- 🤝 Interested in collaborative projects and real-world engineering challenges.
 
 ---
 
-## 🗂️ Projets publics sélectionnés
+## 🛠️ Technical Skills
 
-| Projet | Technologies | Description |
-|------|-------------|-------------|
-| 📦 **pass2green** | NestJS | Plateforme éco-responsable avec architecture propre |
-| 🧠 **education_chat** | React • Node • Express • OpenAI API | Chatbot éducatif intelligent |
-| 🛍️ **para_app** | Flutter • Node • Express | Application mobile de parapharmacie |
-| 💬 **any_dis** | JavaScript | Système de discussion en temps réel |
-| 📚 **educt** | JavaScript | Plateforme éducative interactive |
-| 🎫 **projet_ticket** | Spring Boot • Angular | Gestion de tickets (admin & utilisateurs) |
-| 🧑‍⚕️ **Edercare_proj** | Python • React | Application santé & assistance |
-| 🌐 **webjs** | PHP • PDO • JS | Site web dynamique |
-| ⚙️ **sp_logiciel** | Multi-stack | Logiciel de gestion type ERP/CRM |
+### Frontend Development
+React · Angular · JavaScript · TypeScript
 
-> 🔒 Certains projets en **cybersécurité et IoT** sont privés ou en cours d’évaluation académique.
+### Backend Development
+Node.js · Express.js · Python · FastAPI · REST APIs
 
-----
+### Mobile Development
+Flutter · React Native · Expo · Dart
 
-## 📫 Me contacter
+### Databases
+MongoDB · MySQL · PostgreSQL · SQL
 
-<p align="center">
-  <a href="mailto:rayen.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ton-linkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+### AI & Automation
+Generative AI · LLM Integration · Computer Vision · AI-powered Applications · Workflow Automation
+
+### DevOps & Cloud
+Docker · Git · GitHub · GitLab · CI/CD · AWS · Render · Netlify
+
+### Additional Technologies
+Java · Spring Boot · PHP · C
 
 ---
 
-<p align="center">
-<em>✨ « Créer, sécuriser et innover avec passion et rigueur. » ✨</em>
-</p>
+## 💡 Featured Projects
+
+### 🛣️ SmartRoad AI — Road Defect Detection
+Computer vision project focused on detecting road defects from video footage using YOLO-based object detection.
+
+**Focus:** Python · Computer Vision · Deep Learning
+
+### 👕 Interactive 3D T-Shirt & Hoodie Customizer
+Interactive web application concept for personalizing clothing with custom images, designs, and logos, with 3D product visualization.
+
+**Focus:** React · JavaScript · Vite · Interactive UI
+
+### 🤖 AI Email & Appointment Scheduling Assistant
+AI-assisted workflow designed to classify emails, draft responses, and support appointment scheduling for medical and legal practices.
+
+**Focus:** AI Integration · Workflow Automation · Backend Architecture
+
+### 💊 CURAKARE — Pharmacy Delivery Platform
+Healthcare platform design focused on prescription management, pharmacist validation, order tracking, and secure medication delivery.
+
+**Focus:** Requirements Analysis · System Design · Application Security
+
+### 🤝 SOS Link — Humanitarian Coordination
+Humanitarian coordination platform connecting citizens, associations, and local businesses, with geolocation-based reporting and AI-assisted food donation valuation.
+
+**Focus:** Web & Mobile Development · Geolocation · AI Integration
+
+---
+
+## 💼 Professional Experience
+
+**Full-Stack Web & Mobile Developer — Dynesis Tech**
+- Web and mobile application development.
+- Backend services and API integration.
+- MongoDB-backed functionality.
+- Docker and CI/CD workflows supporting application delivery.
+
+**Application Developer Intern — Solid’Uni**
+- Contributed to SOS Link, a humanitarian coordination platform.
+- Worked on geolocation-based reporting, interactive maps, and user management.
+- Contributed to the design of AI-assisted food donation valuation features.
+
+---
+
+## 📊 GitHub Activity
+
+Explore my repositories to discover my projects, code, and ongoing technical work.
+
+🔗 **GitHub:** https://github.com/rayen43500
+
+---
+
+## 📫 Contact
+
+- **Email:** Rayen.9b7@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/houaidi-rayen/
+- **GitHub:** https://github.com/rayen43500
+
+---
+
+*Building reliable software, exploring intelligent systems, and continuously improving as an engineer.*
